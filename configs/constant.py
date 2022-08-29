@@ -1,0 +1,1 @@
+INVALID_URL_MSG = "Your provided URL is not valid"
